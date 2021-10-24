@@ -1,0 +1,45 @@
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.deps.json
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.runtimeconfig.json
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.runtimeconfig.dev.json
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.dll
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\bin\Debug\net5.0\ref\MovieApplication.Data.dll
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.pdb
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.csprojAssemblyReference.cache
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.AssemblyInfoInputs.cache
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.AssemblyInfo.cs
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.dll
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\obj\Debug\net5.0\ref\MovieApplication.Data.dll
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.pdb
+C:\Users\vivian\source\repos\MovieApplication.Data\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.genruntimeconfig.cache
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.deps.json
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.runtimeconfig.json
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.runtimeconfig.dev.json
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.dll
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\ref\MovieApplication.Data.dll
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.pdb
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.csprojAssemblyReference.cache
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.AssemblyInfoInputs.cache
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.AssemblyInfo.cs
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.dll
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\ref\MovieApplication.Data.dll
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.pdb
+C:\Users\vivian\source\repos\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.genruntimeconfig.cache
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.deps.json
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.runtimeconfig.json
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.runtimeconfig.dev.json
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.dll
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\ref\MovieApplication.Data.dll
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\bin\Debug\net5.0\MovieApplication.Data.pdb
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.csproj.AssemblyReference.cache
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.AssemblyInfoInputs.cache
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.AssemblyInfo.cs
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.dll
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\ref\MovieApplication.Data.dll
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.pdb
+C:\Users\vivian\Desktop\Crossroad Project\Backend\MovieApplication\MovieApplication.Data\obj\Debug\net5.0\MovieApplication.Data.genruntimeconfig.cache
