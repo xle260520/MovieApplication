@@ -1,0 +1,114 @@
+:root{
+  background: #141414;
+  color: #ffffff;
+  
+}
+
+.title-container{
+  display: flex;
+  flex-wrap:  wrap;
+  background: #141414;
+  color: #ffffff;
+  padding-left: 20px;
+}
+
+.title{
+  margin:  1rem;
+  width: 300px;
+  border-radius: 3px;
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.1);
+  overflow:hidden;
+  position: relative;
+  color:#141414;
+}
+
+.titleInfo{
+  display: flex;
+  padding: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+
+
+}
+.title-over{
+  background-color: aliceblue;
+  border-radius: 3px;
+  box-shadow: 0 -3px 5px rgba(0,0,0,0.1);
+  opacity: 0.9;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem;
+  transform: translateY(102%);
+  transition: transform 0.3s ease-in-out;
+  max-height: 100%;
+}
+.title:hover .title-over{
+  transform: translateY(0%);
+}
+
+.storyLine{
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.detail{
+  background: #141414;
+  color: #ffffff;
+}
+
+.detail .content {
+  display: flex;
+  margin:0 auto;
+  max-width: 1000px;
+  
+}
+.detail h2 {
+ 
+  font-size: 28px;
+  font-weight: 500;
+  margin-top: 15px;
+  margin-left: 5px;
+ 
+}
+
+.detail .content span {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.award{
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+
+.detail .content .plot p {
+  flex: 1 1 50%;
+  padding: 15px;
+  font-size: 20px;
+}
+
+.detailImage{
+  margin-top: 70px;
+  padding: 40px;
+  flex: 1 1 50%;
+  margin-top: 30px;
+
+}
+
+.detail h5{
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+.backButton{
+  margin-top: 15px;
+}
